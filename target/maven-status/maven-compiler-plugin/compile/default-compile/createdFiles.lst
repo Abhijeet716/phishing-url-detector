@@ -1,0 +1,4 @@
+com\phishing\App.class
+com\phishing\PhishingUI.class
+com\phishing\PhishingDetector.class
+com\phishing\FeatureExtractor.class
